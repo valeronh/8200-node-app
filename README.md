@@ -6,15 +6,15 @@ Node.js basic application useful for demos and examples
 ## General Information
 
 The application show a basic web page
-![Welcome-Page](https://github.com/Malki-Bynet/8200-node-app/blob/main/Images/Image1.png?raw=true)
+![Welcome-Page](https://github.com/bynet-devops-training/8200-node-app/blob/main/Images/Image1.png?raw=true)
 The application have a basic function to determine if a number is prime or not
-![Welcome-Page](https://github.com/Malki-Bynet/8200-node-app/blob/main/Images/Image2.png?raw=true)
+![Welcome-Page](https://github.com/bynet-devops-training/8200-node-app/blob/main/Images/Image2.png?raw=true)
 
 The folder “spec” contains the application tests which are run using the jasmine-node module
-![Welcome-Page](https://github.com/Malki-Bynet/8200-node-app/blob/main/Images/Image3.png?raw=true)
+![Welcome-Page](https://github.com/bynet-devops-training/8200-node-app/blob/main/Images/Image3.png?raw=true)
 
 The application Dockerfile is very simple, use node as a base image, copy the application files, download the application dependencies and run the application in the port 3000
-![Welcome-Page](https://github.com/Malki-Bynet/8200-node-app/blob/main/Images/Image4.png?raw=true)
+![Welcome-Page](https://github.com/bynet-devops-training/blob/main/Images/Image4.png?raw=true)
 
 ## Build
 
